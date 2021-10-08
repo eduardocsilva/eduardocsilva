@@ -8,11 +8,7 @@
 
 <br>
 
-<hr>
-
-<h3 align="center">Technologies</h3>
-
-<br>
+<h1 align="center">Technologies</h1>
 
 <div align="center">
     <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
@@ -50,11 +46,7 @@
 
 <br>
 
-<hr>
-
-<h3 align="center">Profile Statistics</h3>
-
-<br>
+<h1 align="center">Profile Statistics</h1>
 
 <div align="center">
   <a target="_blank"><img alt="Profile Views" src="https://komarev.com/ghpvc/?username=eduardocsilva&style=flat"></a>
