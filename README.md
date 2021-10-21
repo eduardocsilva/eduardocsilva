@@ -1,6 +1,6 @@
 <h1 align="center">Hello there!</h1>
 
-<p align="center">My name is Eduardo and I'm a Data Engineer @<a href="https://www.criticaltechworks.com/">Critical Techworks</a>, currently attending a master's degree in AI Engineering @<a href="https://isep.ipp.pt/Course/Course/462">ISEP</a>.</p>
+<p align="center">My name is Eduardo and I'm currently attending a master's degree in AI Engineering @<a href="https://isep.ipp.pt/Course/Course/462">ISEP</a>.</p>
 
 <p align="center">I have a strong background in software engineering and web development, as well as data science and machine learning, aspiring to a professional career as a machine learning engineer/data scientist.</p>
 
