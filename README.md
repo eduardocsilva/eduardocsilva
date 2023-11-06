@@ -1,10 +1,10 @@
 <h1 align="center">Hello there!</h1>
 
-<p align="center">My name is Eduardo. I'm currently working as a Data Engineer @<a href="https://www.criticaltechworks.com">Critical TechWorks</a> and attending a master's degree in AI Engineering @<a href="https://isep.ipp.pt/Course/Course/462">ISEP</a>.</p>
+<p align="center">My name is Eduardo. I'm currently working as a Data and AI Engineer @<a href="https://www.bmwgroup.com">BMW Group</a> (@<a href="https://www.criticaltechworks.com">Critical TechWorks</a>), with a BSc in Informatics Engineering and an MSc in AI Engineering.</p>
 
-<p align="center">I have a strong background in software engineering and web development, as well as data science and machine learning, aspiring to a professional career as a machine learning engineer/data scientist.</p>
+<p align="center">I have a strong background in Data Science and Machine Learning, as well as Software Engineering and Web Development, aspiring to a professional career as a Data Scientist/ML Engineer.</p>
 
-<p align="center">I'm a tech guy through and through, passionate about artificial intelligence and web development, besides being obsessed with learning and improving myself everyday as an individual and professional.</p>
+<p align="center">I'm a tech guy through and through, passionate about Artificial Intelligence and Web Development, besides being obsessed with learning and improving myself every day as an individual and professional.</p>
 
 <br>
 
